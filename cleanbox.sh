@@ -49,3 +49,8 @@ echo 'Idea Folder Removed'
 #CF Logout
 cf logout
 echo 'Logged Out from Cloud Foundry'
+
+
+#sudo update-alternatives --config java
+#sed -i '/.env/d' ~/.bashrc
+# sdk install gradle 6.0.1
